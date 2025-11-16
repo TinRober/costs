@@ -50,7 +50,7 @@ Aplicação web completa de **gerenciamento de projetos e serviços** desenvolvi
 1️⃣ **Clonar o repositório**
 
 ```bash
-git clone https://github.com/SeuUsuario/costs.git
+git clone https://github.com/TinRober/Costs.git
 cd Costs
 ```
 
